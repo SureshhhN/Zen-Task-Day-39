@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Username 1",
+        "email": "username1@gmail.com",
+        "phone no": 1111111111,
+        "course": "Front-End Development",
+        "batch": "B35-WD Tamil",
+        "codekata": [
+            {
+                "Input/Output": 35,
+                "String": 10,
+                "Basics": 18
+            }
+        ],
+        "attendance": "57%",
+        "topic":"HTML",
+        "month":"October",
+        "task":"task1",
+        "company-drives":"TCS",
+        "date":"21-10-2020",
+        "placement": "Eligible",
+        "mentor-name":"mentor1",
+        "menteesCount":10
+    }
+]
+
+[
+    {
+        "name": "Username 2",
+        "email": "username2@gmail.com",
+        "phone no": 2222222222,
+        "course": "Back-End Development",
+        "batch": "B35-WD Tamil",
+        "codekata": [
+            {
+                "Input/Output": 20,
+                "String": 14,
+                "Basics": 13
+            }
+        ],
+        "attendance": "61%",
+        "topic":"CSS",
+        "month":"October",
+        "task":"task1",
+        "company-drives":"CTS",
+        "date":"12-10-2020",
+        "mentor-name":"mentor1",
+        "menteesCount":13
+    }
+]
+
+[
+    {
+        "name": "Username 3",
+        "email": "username3@gmail.com",
+        "phone no": 3333333333,
+        "course": "Full Stack Development",
+        "batch": "B35-WD Tamil",
+        "codekata": [
+            {
+                "Input/Output": 15,
+                "String": 17,
+                "Basics": 11
+            }
+        ],
+        "attendance": "41%",
+        "topic":"Javascript",
+        "month":"October",
+        "task":"task1",
+        "company-drives":"Infosys",
+        "date":"27-10-2020",
+        "placement": "Eligible",
+        "mentor-name":"mentor1",
+        "menteesCount":8
+    }
+]
+
+[
+    {
+        "name": "Username 4",
+        "email": "username4@gmail.com",
+        "phone no": 4444444444,
+        "course": "Web App Development",
+        "batch": "B35-WD Tamil",
+        "codekata": [
+            {
+                "Input/Output": 18,
+                "String": 17,
+                "Basics": 16
+            }
+        ],
+        "attendance": "74%",
+        "topic":"React",
+        "month":"October",
+        "task":"task1",
+        "company-drives":"Capgemini",
+        "date":"08-10-2020",
+        "mentor-name":"mentor1",
+        "menteesCount":11
+    }
+]
